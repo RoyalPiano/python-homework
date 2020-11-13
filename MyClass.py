@@ -19,9 +19,9 @@ class MyClass(object):
         return 'MyClass ({}, "{}")'.format(self.__num, self.__string)
 
 
-a = MyClass("aaaaaaa", 4)
-print(a.num())
-print(a.string())
-a.set_num(29)
-a.set_string("asdf")
-print(a)
+#a = MyClass("aaaaaaa", 4)
+#print(a.num())
+#print(a.string())
+#a.set_num(29)
+#a.set_string("asdf")
+#print(a)
